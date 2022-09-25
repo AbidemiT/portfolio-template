@@ -1,11 +1,12 @@
 {
-  "name": "Chetan",
+  "name": "Abidemi",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Tiamiyu Sikiru Abidemi - a",
+  "headerTaglineThree": "Frontend devloper",
+  "headerTaglineFour": " based in Nigeria.",
   "showBlog": true,
   "darkMode": true,
+  "showResume": true,
   "socials": [
     {
       "id": "1",
@@ -72,12 +73,12 @@
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
+      "title": "GDG Ibadan Co-Organizer",
       "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
     },
     {
       "id": "2",
-      "title": "Branding",
+      "title": "Mentoring",
       "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
     },
     {
@@ -115,12 +116,12 @@
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "Tai-Solarin University of Education",
+      "universityDate": "2012-2016",
+      "universityPara": "Tai Solarin University of Education located in Ijagun, Ijebu-Ode, Ogun State, Nigeria."
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": ["Javascript", "HTML5", "CSS", "Scss"],
+    "frameworks": ["React", "VueJs", "Nuxt", "Bootstrap", "Jquery"],
+    "others": ["Trello", "Slack", "Skype", "Jira", "Git/Github"]
   }
 }
