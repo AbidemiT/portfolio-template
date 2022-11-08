@@ -32,10 +32,10 @@
     "projects": [
         {
             "id": "1",
-            "title": "Merwas (WIP)",
-            "description": " ",
+            "title": "Merwas",
+            "description": "Entertainment",
             "imageSrc": "https://res.cloudinary.com/do5foxghh/image/upload/v1664117018/portfolio/merwas.png",
-            "url": "hhttps://merwas.sa"
+            "url": "https://merwas.sa"
         },
         {
             "id": "2",
